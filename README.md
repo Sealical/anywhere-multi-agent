@@ -1,6 +1,6 @@
 # Anywhere: A Multi-Agent Framework for Reliable and Diverse Foreground-Conditioned Image Inpainting
 
-<a href='Anywhere: A Multi-Agent Framework for Reliable and Diverse Foreground-Conditioned Image Inpainting'><img src='https://img.shields.io/badge/Project-Page-Green'></a>  <a href='https://arxiv.org/abs/2404.18598'><img src='https://img.shields.io/badge/Paper-Arxiv-red'></a> 
+<a href='https://anywheremultiagent.github.io/'><img src='https://img.shields.io/badge/Project-Page-Green'></a>  <a href='https://arxiv.org/abs/2404.18598'><img src='https://img.shields.io/badge/Paper-Arxiv-red'></a> 
 
 ## Quick start
 ### Environment setup
